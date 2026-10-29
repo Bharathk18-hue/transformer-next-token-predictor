@@ -1,0 +1,100 @@
+the cat sat on the mat.
+the dog chased the ball in the park.
+a quick brown fox jumps over the lazy dog.
+the sun rises in the east and sets in the west.
+birds fly high in the clear blue sky.
+the teacher explains the lesson clearly to the students.
+students read books in the quiet library.
+water flows gently down the green mountain river.
+trees provide shade and fresh oxygen in the forest.
+the small boat sailed across the deep blue ocean.
+children play happily in the open school playground.
+fresh apples and sweet oranges grow on farm trees.
+the computer processes information using electronic circuits.
+a software engineer writes clean and maintainable code.
+programming languages help developers build useful applications.
+machine learning is a branch of artificial intelligence.
+deep learning models learn patterns directly from data.
+a neural network consists of interconnected artificial neurons.
+each neuron computes a weighted sum of its inputs.
+an activation function introduces non-linearity into the network.
+gradient descent updates parameters to minimize the loss function.
+the learning rate controls the step size during optimization.
+backpropagation computes gradients using the chain rule of calculus.
+overfitting happens when a model memorizes the training data.
+regularization techniques help prevent overfitting in neural networks.
+dropout randomly disables neurons during training to improve generalization.
+a validation dataset helps monitor model performance on unseen data.
+the loss function measures the difference between predictions and targets.
+cross entropy loss is commonly used for classification and language modeling.
+natural language processing enables computers to understand human language.
+tokenization divides raw text into smaller units called tokens.
+a vocabulary is a collection of unique tokens in a dataset.
+each word is mapped to a unique integer index in the vocabulary.
+word embeddings represent words as dense numerical vectors in continuous space.
+similar words have closer vector representations in embedding space.
+positional embeddings provide order information to transformer models.
+the transformer architecture was introduced in the paper attention is all you need.
+transformers replace recurrence with self-attention mechanisms.
+self-attention calculates how each word relates to every other word in a sentence.
+the query key and value vectors are computed from input embeddings.
+the dot product between query and key measures their similarity.
+scaling by the square root of key dimension prevents gradient vanishing.
+a softmax function converts raw attention scores into probability distributions.
+attention weights determine how much focus each token receives.
+the weighted sum of value vectors produces the final attention output.
+multi-head attention allows the model to attend to information from different representation subspaces.
+causal masking prevents tokens from attending to future positions during training.
+without causal masking the model would cheat by looking ahead at the next token.
+layer normalization stabilizes hidden state dynamics across layers.
+residual connections help gradients flow smoothly through deep networks.
+a feed-forward network applies non-linear transformations to each position independently.
+transformer blocks can be stacked together to form deep language models.
+next-token prediction is the primary objective of autoregressive language models.
+the model predicts the probability distribution of the next word given previous words.
+greedy decoding selects the token with the highest probability at each step.
+temperature sampling controls randomness and creativity during text generation.
+a lower temperature makes generated text more predictable and focused.
+a higher temperature makes generated text more diverse and creative.
+perplexity measures how well a probability model predicts a sample sequence.
+a lower perplexity indicates better predictive performance by the language model.
+artificial intelligence transforms how humans solve complex real-world problems.
+data science extracts meaningful insights from structured and unstructured data.
+supervised learning uses labeled examples to train predictive models.
+unsupervised learning discovers hidden patterns in unlabeled data.
+reinforcement learning trains an agent through trial and error rewards.
+computer vision enables machines to recognize objects and scenes in digital images.
+speech recognition converts spoken voice into written text format.
+large language models are trained on massive text corpora from the internet.
+transfer learning fine-tunes pretrained models for specific downstream tasks.
+data preprocessing cleans raw input before feeding it into machine learning models.
+handling missing values and outliers is essential for reliable data analysis.
+feature engineering creates informative variables to improve model accuracy.
+an epoch represents one complete pass through the entire training dataset.
+a mini-batch is a small subset of training samples processed in one step.
+the adam optimizer combines momentum and adaptive learning rates for efficient training.
+evaluation metrics help developers compare different machine learning algorithms.
+the training loss should decrease steadily across epochs during proper training.
+validation loss helps detect when the model starts overfitting.
+saving model checkpoints allows resuming training or deploying models later.
+deployment involves serving trained models in web applications or mobile apps.
+python is the most popular programming language for deep learning and data science.
+pytorch provides dynamic computation graphs and clean tensor operations.
+simple models are easy to understand debug and explain to an audience.
+understanding self-attention is key to mastering modern transformer architectures.
+practice and experimentation help beginners gain confidence in deep learning.
+the cat sat on the warm rug near the fireplace.
+the dog barked happily when its owner returned home.
+machine learning algorithms discover patterns hidden inside complex datasets.
+neural networks mimic the biological structure of the human brain.
+natural language processing powers modern chatbots and search engines.
+the transformer model changed the field of artificial intelligence forever.
+self-attention allows models to process all tokens in parallel rather than sequentially.
+causal attention ensures that language models generate text autoregressively.
+word embeddings capture semantic relationships between different concepts.
+regularization ensures that models perform well on new unseen data.
+the learning rate should be chosen carefully to ensure stable convergence.
+optimizers adjust weights based on gradients computed during backpropagation.
+deep learning requires quality data careful modeling and rigorous evaluation.
+the students completed their machine learning mini-project successfully.
+consistent effort and curiosity lead to great learning outcomes in technology.
